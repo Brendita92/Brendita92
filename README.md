@@ -16,13 +16,13 @@ Me interesa combinar programación con comunicación técnica clara y accesible.
 - **Bases de datos:** MySQL
 - **Herramientas:** Git
 
-<img src="https://media.giphy.com/media/LMt9638UILlwIB5QcN/giphy.gif" alt="Python" width="50" height="50">
-<img src="https://media.giphy.com/media/ln7z2eWriiQAllfVcn/giphy.gif" alt="JavaScript" width="50" height="50">
-<img src="https://media.giphy.com/media/Dh5q0sShxgp13DwrvG/giphy.gif" alt="Java" width="50" height="50">
-<img src="https://media.giphy.com/media/fsEaZldNC8A1PJ3mwZ/giphy.gif" alt="C#" width="50" height="50">
-<img src="https://media.giphy.com/media/eNAsjUHS76d2c2w70C/giphy.gif" alt="React" width="50" height="50">
-<img src="https://media.giphy.com/media/kH6final3HA7UXtUaZ/giphy.gif" alt="MySQL" width="50" height="50">
-<img src="https://media.giphy.com/media/So6W2Bni3nVDvKFHKc/giphy.gif" alt="Git" width="50" height="50">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="50" height="50">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="50" height="50">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="50" height="50">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="C#" width="50" height="50">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" width="50" height="50">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="MySQL" width="50" height="50">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="50" height="50">
 
 ## 📊 Estadísticas
 
