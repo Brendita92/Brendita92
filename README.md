@@ -11,8 +11,8 @@ Soy estudiante de la UTN en Goya apasionada de la organización visual de proyec
 Me interesa combinar programación con comunicación técnica clara y accesible.
 
 ## 🛠️ Habilidades
-- **Lenguajes:** Python, JavaScript, Java, C#
-- **Web:** HTML5, CSS3, React, Bootstrap
+- **Lenguajes:** Python, JavaScript, Java, C, C++, C#
+- **Web:** HTML5, CSS3, Bootstrap
 - **Bases de datos:** MySQL
 - **Herramientas:** Git
 
@@ -21,7 +21,6 @@ Me interesa combinar programación con comunicación técnica clara y accesible.
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="50" height="50">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="50" height="50">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="C#" width="50" height="50">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" width="50" height="50">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="MySQL" width="50" height="50">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="50" height="50">
 </p>
