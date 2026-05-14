@@ -26,14 +26,8 @@ Me interesa combinar programación con comunicación técnica clara y accesible.
 
 ## 📊 Estadísticas
 
-### GitHub Stats
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Brendita92&show_icons=true&theme=radical&hide_border=true)](https://github.com/Brendita92)
-
 ### Racha de Contribuciones
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Brendita92&theme=radical&hide_border=true)](https://github.com/Brendita92)
-
-### Lenguajes Más Usados
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Brendita92&layout=compact&theme=radical&hide_border=true)](https://github.com/Brendita92)
 
 ### Logros
 [![trophy](https://github-profile-trophy.vercel.app/?username=Brendita92&theme=radical&no-frame=true&column=4)](https://github.com/ryo-ma/github-profile-trophy)
