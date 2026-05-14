@@ -25,8 +25,8 @@ Me interesa combinar programación con comunicación técnica clara y accesible.
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 ## 📊 Estadísticas
-[![GitHub Stats](https://github-readme-stats-brendita92.vercel.app/api?username=Brendita92&show_icons=true&theme=radical&hide_border=true)](https://github.com/Brendita92)
-[![Top Languages](https://github-readme-stats-brendita92.vercel.app/api/top-langs/?username=Brendita92&layout=compact&theme=radical&hide_border=true)](https://github.com/Brendita92)
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Brendita92&show_icons=true&theme=radical&hide_border=true)](https://github.com/Brendita92)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Brendita92&layout=compact&theme=radical&hide_border=true)](https://github.com/Brendita92)
 
 ## 🌱 Intereses
 - Desarrollo de aplicaciones web modernas
