@@ -7,7 +7,7 @@
 
 
 ## 🎓 Perfil
-Soy estudiante de la UTN en Goya, apasionada por el análisis semántico, la organización visual de proyectos académicos y el desarrollo de aplicaciones.
+Soy estudiante de la UTN en Goya apasionada de la organización visual de proyectos académicos y el desarrollo de aplicaciones.
 Me interesa combinar programación con comunicación técnica clara y accesible.
 
 ## 🛠️ Habilidades
