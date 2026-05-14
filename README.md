@@ -16,13 +16,13 @@ Me interesa combinar programación con comunicación técnica clara y accesible.
 - **Bases de datos:** MySQL
 - **Herramientas:** Git
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
-![CSharp](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+<img src="https://media.giphy.com/media/LMt9638UILlwIB5QcN/giphy.gif" alt="Python" width="50" height="50">
+<img src="https://media.giphy.com/media/ln7z2eWriiQAllfVcn/giphy.gif" alt="JavaScript" width="50" height="50">
+<img src="https://media.giphy.com/media/Dh5q0sShxgp13DwrvG/giphy.gif" alt="Java" width="50" height="50">
+<img src="https://media.giphy.com/media/fsEaZldNC8A1PJ3mwZ/giphy.gif" alt="C#" width="50" height="50">
+<img src="https://media.giphy.com/media/eNAsjUHS76d2c2w70C/giphy.gif" alt="React" width="50" height="50">
+<img src="https://media.giphy.com/media/kH6final3HA7UXtUaZ/giphy.gif" alt="MySQL" width="50" height="50">
+<img src="https://media.giphy.com/media/So6W2Bni3nVDvKFHKc/giphy.gif" alt="Git" width="50" height="50">
 
 ## 📊 Estadísticas
 
